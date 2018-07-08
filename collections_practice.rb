@@ -4,3 +4,4 @@ def begins_with_r(arr)
     !item.start_with?("r")
   }
 end
+begins_with_r(["r","b"])
